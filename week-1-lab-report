@@ -2,7 +2,7 @@ Step 1: Installing VSCode
 To install VSCode on your own computer, go to the following link: https://code.visualstudio.com/.
 Following instructions, you get VSCode downloaded. 
 When you open it, if you see the following page, it means that your have successfully installed it.
-
+https://github.com/HannahHUroo/cse15l-lab-reports/commit/a5d026db1d1fa0cb5b672227bf5401b31f5a879f
 
 Step 2: Remotely Connecting
 Firstly, open VSCode, and then create a terminal. 
