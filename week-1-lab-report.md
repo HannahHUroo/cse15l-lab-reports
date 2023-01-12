@@ -1,7 +1,7 @@
-Step 1: Installing VSCode
-To install VSCode on your own computer, go to the following link: https://code.visualstudio.com/.
-Following instructions, you get VSCode downloaded. 
-When you open it, if you see the following page, it means that your have successfully installed it.
+Step 1: Installing VSCode\
+To install VSCode on your own computer, go to the following link: https://code.visualstudio.com/. \
+Following instructions, you get VSCode downloaded. \
+When you open it, if you see the following page, it means that your have successfully installed it.\
 
 
 Step 2: Remotely Connecting
