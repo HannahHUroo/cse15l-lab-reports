@@ -12,9 +12,10 @@ Then, the system will ask you to enter your password.\
 When you're entering the password, nothing will appear on the screen due to safety concern.\
 Just type it completely, and you will be logged in.\
 When everything is done, you should see the following.
-
+![My Image](l1p2.png)
 
 Step 3: Trying Some Commands\
 Now that you have remotely connected to another computer, you can control your current directory by commands.\
 Type cd ~ to change directory upwards.\
 Type ls to see the files in current directory.
+![My Image](l1p3.png)
